@@ -1,9 +1,9 @@
 ## Деплой проекта
 
 Проект опубликован на GitHub Pages:  
-**[Открыть опубликованный проект](https://KateSarycheva.github.io/mesto-pruduction)**  
+**[Открыть опубликованный проект](http://localhost:5173/)**  
 
 ### Команда для публикации
 
 ```bash
-npm run dev
+npm run build
