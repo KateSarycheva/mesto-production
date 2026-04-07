@@ -6,4 +6,4 @@
 ### Команда для публикации
 
 ```bash
-npm run deploy
+npm run dev
